@@ -3,7 +3,9 @@
   display: none;
 }
 
-#wall > div
+#wall > div {
+  display: none;
+}
 
 #wall .parent #tag-4 {
   display: none;
