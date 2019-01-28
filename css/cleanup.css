@@ -11,6 +11,9 @@
   display: none;
 }
 
-.tag 
+.tag-1 ~ div {
+  display: none;
+}
+}
 
 
