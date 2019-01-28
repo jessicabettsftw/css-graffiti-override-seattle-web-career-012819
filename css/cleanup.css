@@ -17,7 +17,9 @@
 }
 */
 
-#wall div#tag-5.
+#wall div#tag-5.slick {
+  display: none;
+}
 
 #wall .parent #tag-4 { /*football helmet*/
   display: none;
