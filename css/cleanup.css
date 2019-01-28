@@ -7,6 +7,10 @@
   display: none;
 }
 
+#wall > div {
+  display: none;
+}
+
 #wall .parent #tag-4 { /*football helmet*/
   display: none;
 }
