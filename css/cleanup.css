@@ -3,6 +3,8 @@
   display: none;
 }
 
+#wall > div
+
 #wall .parent #tag-4 {
   display: none;
 }
