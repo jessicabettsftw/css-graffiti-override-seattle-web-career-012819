@@ -14,6 +14,9 @@
 #wall .parent > div { /*girl graffiti */
   display: none;
 }
+
+#wall .parent div.slick {
+  display:none;
 }
 
 
