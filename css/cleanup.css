@@ -3,10 +3,6 @@
   display: none;
 }
 
-.tag-1 + #tag-2 {
-  display: none;
-}
-
 #wall .parent #tag-4 {
   display: none;
 }
@@ -15,5 +11,8 @@
   display: none;
 }
 
+#wall .parent .slick{
+  display: none;
+}
 
 
