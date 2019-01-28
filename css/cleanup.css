@@ -3,9 +3,10 @@
   display: none;
 }
 
+/*
 #wall > div {
   display: none;
-}
+}*/
 
 #wall .parent .slick {
   display: none;
