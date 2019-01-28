@@ -11,7 +11,10 @@
   display: none;
 }
 
-#wall >
+#wall .parent > div {
+  display: none;
+}
+}
 
 
 
