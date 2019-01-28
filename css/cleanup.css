@@ -7,7 +7,7 @@
   display: none;
 }
 
-#wall > div#tag-3 {
+#wall > div#tag-3 { 
   display: none;
 }
 
@@ -15,9 +15,10 @@
   display: none;
 }
 
+/*
 #wall > div { /* green words behind football */
   display: none;
 }
-
+*/
 
 
