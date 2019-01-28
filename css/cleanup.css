@@ -7,7 +7,9 @@
   display: none;
 }
 
-
+#wall > div {
+  display: none;
+}
 
 
 
