@@ -3,6 +3,10 @@
   display: none;
 }
 
+#tag-2 {
+  display: none;
+}
+
 #wall .parent #tag-4 { /*football helmet*/
   display: none;
 }
