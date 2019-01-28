@@ -7,7 +7,7 @@
   display: none;
 }
 
-#wall .parent #tag-5 {
+#wall .parent > div {
   display: none;
 }
 
